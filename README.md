@@ -11,6 +11,12 @@ We also had a few classes in machine learning and statistics which help us analy
 
 -> Pandas, Numpy, Seaborn and Matplotlib are used for data analysis.
 
+-> Reading the data was done through Pandas.
+
+-> Data Cleaning was done through Pandas and Seaborn.
+
+-> Data testing was done using Numpy.
+
 -> This project was built on python.
 
 -> The dataset is sourced from Kaggle.
